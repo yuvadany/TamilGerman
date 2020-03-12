@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:fitsSystemWindows="true"
-    tools:context=".MainActivity">
+    tools:context="bible.germanbible.tamilbible.MainActivity">
 
     <android.support.design.widget.AppBarLayout
         android:layout_width="match_parent"
@@ -60,7 +60,7 @@
         android:layout_gravity="top|end"
         android:layout_marginRight="@dimen/fab_margin"
         android:layout_marginTop="160dp"
-        android:src="@drawable/e"
+        android:src="@drawable/d"
         android:visibility="invisible"
         app:elevation="6dp"
         app:pressedTranslationZ="12dp" />
@@ -72,7 +72,7 @@
         android:layout_gravity="top|end"
         android:layout_marginRight="@dimen/fab_margin"
         android:layout_marginTop="160dp"
-        android:src="@drawable/e"
+        android:src="@drawable/d"
         android:visibility="invisible"
         app:elevation="6dp"
         app:pressedTranslationZ="12dp" />
